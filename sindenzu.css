@@ -1,6 +1,6 @@
 .sindenzu{
     width:100vw;
-    height:100vh;
+    height:80vh;
     overflow: hidden;
 }
 .sindenzu div{
@@ -9,9 +9,8 @@
     position:relative;
     background-image: url(img/sindenzu.png);
     background-repeat: no-repeat;
-    background-position:center middle;
-    background-size: 100%;
-
+    background-position:left top;
+    background-size: 100% auto;
 }
 .sindenzu div:before{
     position: absolute;
